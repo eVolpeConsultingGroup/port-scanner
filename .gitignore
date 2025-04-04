@@ -1,0 +1,36 @@
+# Ignore database file
+monitoring.db
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore node_modules (if using Node.js for frontend dependencies)
+node_modules/
+
+# Ignore vendor folder (if using Composer for PHP dependencies)
+vendor/
+
+# Ignore environment configuration files
+.env
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore compiled files (if applicable)
+*.out
+*.exe
+*.class
+
+# Ignore other unnecessary files
+*.cache
+*.lock
