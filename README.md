@@ -2,6 +2,8 @@
 
 A web-based tool for monitoring your network security by scanning IP addresses for open ports and sending notifications about potentially unwanted open ports.
 
+![Port Scanner interface](https://evolpe.pl/wp-content/uploads/2025/04/port-scanner-preview.webp)
+
 ## Overview
 
 Port Scanner helps you maintain network security by regularly checking specified IP addresses for open ports. The system:
