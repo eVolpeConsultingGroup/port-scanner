@@ -53,7 +53,7 @@ This tool is designed to help detect potential security vulnerabilities in your 
 
 1. Install required dependencies:
    ```
-   apt-get update && apt-get install -y php apache2 nmap cron
+   apt-get update && apt-get install -y php php-sqlite apache2 nmap cron
    ```
 
 2. Clone the repository to your web server directory:
